@@ -3,8 +3,8 @@
 1. Clone the repository
 
 ```bash
-git clone https://github.com/dwinarwastu/subscription-tracker-api.git
-cd subscription-tracker-api
+git clone https://github.com/dwinarwastu/typescript-restful-api.git
+cd typescript-restful-api
 ```
 
 2. Install dependencies
